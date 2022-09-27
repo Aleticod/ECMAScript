@@ -12,6 +12,7 @@
   },
   "author": "Harvey Unsaac",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Aleticod/ECMAScript/issues"
   },
